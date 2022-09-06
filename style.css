@@ -6,7 +6,7 @@
     }
     nav{
         height: 80px;
-        background: rgb(3, 176, 220);
+        background: rgb(3, 174, 220);
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -14,7 +14,7 @@
     }
     nav .logo{
         font-size: 33px;
-        color: rgb(41, 9, 169);
+        color: rgb(41, 9, 168);
         font-weight: 600;
     }
     nav ul{
@@ -35,7 +35,7 @@
         background-color: white;
         padding: 8px 10px;
         border-radius: 0px 16px 0px 16px;
-        transition: all 0.3s ease;
+        transition: all 0.4s ease;
     }
     nav ul li a:hover{
         color: aliceblue;
